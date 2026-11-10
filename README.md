@@ -16,4 +16,4 @@ A página reúne o logotipo e o título da galeria, uma fotografia da costa, uma
 
 ## Repositório
 
-[Ver o projeto no GitHub](https://github.com/Laiy0n/web_project_homeland)
+[Ver o projeto no GitHub](https://laiy0n.github.io/web_project_homeland/)
