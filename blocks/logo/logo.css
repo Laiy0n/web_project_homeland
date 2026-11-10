@@ -1,0 +1,41 @@
+.logo {
+  display: flex;
+  width: 254px;
+  height: 66px;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.logo__mark {
+  display: block;
+  width: 32px;
+  height: 32px;
+  flex: 0 0 auto;
+}
+
+.logo__text {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  line-height: 16px;
+}
+
+@media screen and (max-width: 544px) {
+  .logo {
+    height: 48px;
+    gap: 2px;
+  }
+
+  .logo__mark {
+    width: 24px;
+    height: 24px;
+  }
+
+  .logo__text {
+    font-size: 10px;
+    line-height: 14px;
+  }
+}
